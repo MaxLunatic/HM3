@@ -1,44 +1,53 @@
-body 
-{
-    background-color: navajowhite;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
+body {
+  background-color: navajowhite;
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  text-align: left;
 }
-.pink
-{
-    color: hotpink;
+.pink {
+  color: hotpink;
 }
-.gray
-{
-    color: darkgray;
-    margin-left: 30px;
-    text-decoration: none;
+.gray {
+  color: darkgray;
+  margin-left: 30px;
+  text-decoration: none;
 }
-.blue
-{
-    background:blanchedalmond;
-    border-radius: 10px;
-    overflow: hidden;
-    color: blue;
-    width: 500px;
-    height: 500px;
+.blue {
+  background: blanchedalmond;
+  border-radius: 10px;
+  overflow: hidden;
+  color: blue;
+  width: 500px;
+  height: 500px;
 }
-.one
-{
-   color:darkmagenta;
-   margin-bottom: 80px; 
+.one {
+  color: darkmagenta;
+  margin-bottom: 80px;
 }
-.big
-{
- font-weight: bold;
+.big {
+  font-weight: bold;
 }
-.line
-{
-    color: black;
-    text-decoration: underline;
-    text-decoration-color: deeppink;
+.line {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: deeppink;
 }
-.two li::before
-{
+.two {
+  list-style: "-";
+  color: blueviolet;
+}
+.second {
+  list-style: "-";
+}
+.first {
+  color: blueviolet;
+}
+span {
+  color: black;
+}
+h3 {
+  color: black;
+}
+.third {
   color: blueviolet;
 }
