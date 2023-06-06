@@ -1,8 +1,6 @@
 body {
   background-color: navajowhite;
-  font-family: "Times New Roman", Times, serif;
-  font-size: medium;
-  text-align: left;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .pink {
   color: hotpink;
@@ -13,12 +11,10 @@ body {
   text-decoration: none;
 }
 .blue {
-  background: blanchedalmond;
   border-radius: 10px;
   overflow: hidden;
-  color: blue;
-  width: 500px;
   height: 500px;
+  width: 1000px;
 }
 .one {
   color: darkmagenta;
